@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Ronald Carrasquillo II / My digital portfolio"
+title                    : "My digital portfolio"
 title_separator          : "-"
 name                     : &name "Ronald Carrasquillo II"
 description              : &description "This is my digital portfolio where all of my projects are showcased to show my strength in coding the overall digital setting."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,9 +24,9 @@ repository               : "ronald-cq-gh/ronald-cq-gh.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Ronald"
+  name             : "Ronald Carrasquillo II"
   pronouns         : "he/they"  
-  bio              : "2027 Graduate of Havre de Grace High School"
+  bio              : "2027 Graduate of Havre de Grace High School. Interested in thriving in cybersecurity settings."
   location         : "Havre de Grace, Maryland"
   employer         : "Havre de Grace High School"
   uri              : # URL
