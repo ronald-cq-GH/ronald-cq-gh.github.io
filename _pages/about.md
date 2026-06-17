@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Ronald Carrasquillo II"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Ronald Carrasquillo II
 
 ## Summary
 
@@ -65,3 +63,7 @@ Full-time student eligible for a Security Clearance with experience as a leader 
 > 🏅 **Oracle Certified Foundations Associate, Database** — Passed the 1Z0-006 Oracle Exam
 
 
+# Portfolio
+
+Quarter 3 Project for "Clinical Internship" High School Course: [APG Website](https://github.com/ronald-cq-GH/Clinical-Internship-Q3)
+Quarter 4 Project for "Clinical Internship" High School Course: [Crypto-Steg Website](https://github.com/ronald-cq-GH/Crypto-Steg)
